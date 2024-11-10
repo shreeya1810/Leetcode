@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shreeya1810/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/shreeya1810/Leetcode/tree/master/0062-unique-paths) |
 ## Stack
 |  |
 | ------- |
@@ -100,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shreeya1810/Leetcode/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/shreeya1810/Leetcode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/shreeya1810/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
